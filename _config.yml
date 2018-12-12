@@ -25,19 +25,27 @@ title: WakoJia-Pei | Another yet unique freak is showing a freakshow
 description: "WakoJia-Pei's personal weblog, on coding or such stuff"
 
 my:
-    displayName: WakoJia-Pei
+    displayName: WakoJia
     realName: WakoJia-Pei
-    realName_cn: 裴万江
+    realName_cn: ***
     jobTitle: "PHP Coder"
     contact:
         qq: 724606412
-        email: fanghao90s@gmail.com
+        email: pwjiang@163.com
         github: https://github.com/WakoJia-Pei
         qzone: http://724606412.qzone.qq.com
+        tel: 13772909507
+        address:
+            country: China
+            state: 
+            city: Xi'an
+            distribute: YanTa
+            postcode: 000000
+            cell: "AnHuiLi"
     skills:
-        frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
-        backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
-        tools: ["Sublime Text", "Git | Github", "Linux"]
+        frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap | Vue"]
+        backend: ["Java", "MySQL", "Python"]
+        tools: ["Sublime Text", "Git | Github", "Linux", "Eclipse | WebStorm | Pycharm"]
 
 collections:
     qqGroupGuide:
