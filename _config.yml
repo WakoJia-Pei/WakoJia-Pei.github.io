@@ -20,13 +20,13 @@ excerpt_separator: "[-----]"
 mode: product
 url: https://wakojia-pei.github.io/
 devurl: http://localhost:4000/
-name: WakoJia-Pei
-title: WakoJia-Pei | Another yet unique freak is showing a freakshow
-description: "WakoJia-Pei's personal weblog, on coding or such stuff"
+name: WakoJia
+title: WakoJia
+description: "WakoJia's personal weblog, on coding or such stuff"
 
 my:
     displayName: WakoJia
-    realName: WakoJia-Pei
+    realName: WakoJia
     realName_cn: ***
     jobTitle: "PHP Coder"
     contact:
