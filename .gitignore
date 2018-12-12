@@ -4,3 +4,11 @@ _site/
 .sass-cache/
 _config.yml
 Gemfile
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
