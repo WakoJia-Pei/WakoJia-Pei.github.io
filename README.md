@@ -1,73 +1,69 @@
-![alt-tag](https://c2.staticflickr.com/8/7167/26672340054_eaae3d4e7f_o.png)
-![alt-tag](https://c2.staticflickr.com/8/7013/26671807574_4487215cda_o.png)
+## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
-#### To create a new post :sunglasses:
-
-- Create a .markdown file inside _posts folder.
-- Name the file according to the standard jekyll format.
-```
-   2016-03-30-i-love-design.markdown
-```
-- Write the Front Matter and content in the file.
-    ```
-          ---
-          layout: post
-          title:  String Post Title
-          date:   Time Stamp
-          categories: String | Array of Strings Category / Categories
-          ---
-    ```
-
-    ```
-        ---
-        layout: post
-        title:  "The One with the Blackout"
-        date:   2016-03-30 19:45:31 +0530
-        categories: ["life", "friends"]
-        ---
-    ```  
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
 
 
-![alt-tag](https://c2.staticflickr.com/8/7073/27208796421_05b7f79b4b_o.png)
+# Newsletter: Stay in Touch for Future Updates
+
+If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
+
+[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
 
 
-####Create new pages, such a breeze! :smile:
-- Create a .md file in the root directory.
-- Name the file with the desired page link name.
-```
-   about.md
-```
-```
-   design.md
-```
-- Write the Front Matter and content in the file.
-```
-          ---
-          layout: page
-          title: String Title of the webpage
-          permalink: / String / Permalink for the webpage
-          tagline: String Optional Feature : Tagline for the page
-          ---
-```      
-```
-        ---
-        layout: page
-        title:  "Science"
-        permalink:   /science/
-        tagline : "Humanity is overrated."
-        ---
-```      
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
-![alt-tag](https://c2.staticflickr.com/8/7613/27278759785_da430e2f99_o.png)
+## A Responsive Jekyll Theme: *Feeling Responsive*
 
-####It'd be really cool if you,<br>
-1.  Create some new feature and would like to integrate in Safarnama. Pull requests are most invited.
-2.  Open issues if you find bugs.
-3.  Just so you know, the license type is MIT.
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
+
+To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
+
+And what license is *Feeling Responsive* released under? [This one][2].
 
 
->Its' all about being community driven.  :bus: :bus: :dash:
 
-If there's any issue you are facing in setting up Safarnama, I'm there for you. Just create an issue in this repository (http://github.com/hemangsk/safarnama), (https://help.github.com/articles/creating-an-issue/) and I'll get back to you asap. :smile: :+1:<br>
+## Why use this theme?
 
-Have a great day!  :smile: :smile: :smiley:
+Feeling Responsive is heavily customizable.
+
+1. Language-Support :)
+2. Optimized for speed and it's responsive.
+3. Built on Foundation Framework.
+4. Six different Headers.
+5. Customizable navigation, footer,...
+
+**[More ›][3]**
+
+
+
+## Changelog
+
+*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
+
+**[Read Changelog ›][6]**
+
+
+
+## Video Tutorial
+
+Click the image to [watch the YouTube-Video-Tutorial][4].
+
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+
+
+
+
+
+
+
+
+ [1]: http://phlow.github.io/feeling-responsive/documentation/
+ [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [3]: http://phlow.github.io/feeling-responsive/info/
+ [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+ [5]: https://github.com/TWiStErRob
+ [6]: https://phlow.github.io/feeling-responsive/changelog/
+ [7]: http://phlow.github.io/feeling-responsive/
+ [8]: http://phlow.github.io/simplicity/
+ [9]: #
+ [10]: #
