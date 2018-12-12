@@ -1,1 +1,19 @@
-theme: jekyll-theme-merlot
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: WakoJia-Pei
+email: 1593848671@qq.com
+description: STORIES ON THE MOVE
+
+baseurl: "" #e.g. /safarnama, /blog. Dont forget the '/'.
+url: "http://WakoJia-Pei.github.io" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  WakoJia-Pei
+
+# Build settings
+markdown: kramdown
