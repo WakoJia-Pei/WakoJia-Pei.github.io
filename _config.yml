@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: WakoJia
+title: WakoJia笔记
 subtitle:
 description: 随便说说
-author: WakoJia
+author: Pei WanJiang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-# favicon: /assets/favicon.ico
+favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "vue, Java"
