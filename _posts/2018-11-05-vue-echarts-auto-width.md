@@ -1,8 +1,8 @@
 ---
-title: "Vue 渲染echarts图标宽度只能显示100px"
+title: "Vue 渲染echarts图表宽度只能显示100px"
 layout: post
 category: note
-tags: [vue, echarts, element-UI, el-tabs]
+tags: [vue, echarts]
 excerpt: "刚刚接触vue不久,在开发过程中遇到不少坑,走了很多弯路,其中一个就是在echarts图表加载渲染时,图表的宽度只能显示100px问题,这篇文章记录解决方案,对于像我一样的初学者来说,可能会有一些参考意义,也是对自己这段学习的总结,以后处理类似问题完全可以成竹在胸了"
 ---
 
@@ -38,7 +38,7 @@ excerpt: "刚刚接触vue不久,在开发过程中遇到不少坑,走了很多�
 ```
 这一种情况下遇到,在调试时,发现是图表在页面加载时生成的width就是100px,上网查找说是没有resize,我照做之后还是没有解决,
 
-![err-show](/images/posts/201811/vue_echarts_width_100px_show.jpg)
+![err-show](/images/posts/201811/vue_echarts_width_100px_show.png)
 
 几经周折之后,总算求到了解决之道
 
