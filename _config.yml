@@ -75,8 +75,9 @@ plugins:
 # Site Information Settings
 # ---------------------------------------------------------------
 
+# 链接头像
 # Put your favicon.ico into `assets/` directory.
-# favicon: /assets/favicon.ico
+favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "vue, Java"
@@ -229,7 +230,7 @@ social_icons:
   知乎: Zhihu
 
 
-# Sidebar Avatar
+# Sidebar Avatar 用户头像
 # in directory: /assets/images/avatar.gif
 # atar: /assets/images/avatar.png
 
