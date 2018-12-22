@@ -62,7 +62,7 @@ git clone https://github.com/WakoJia-Pei/WakoJia-Pei.github.io.git
 到这个网站选择你喜欢的模板http://jekyllthemes.org/
 ![Alt text](/images/posts/201812/lALPDgQ9qaA_WIDNAtnNBWI_1378_729.png)
 
-选择自己喜欢的模板, 点击“**downlod**”，把它下载下来吧
+选择自己喜欢的模板, 点击“**download**”，把它下载下来吧
 
 ### 8. 应用主题
 
