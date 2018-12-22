@@ -108,7 +108,7 @@ git push
 
 ### 12. 绑定域名
 
-在__`第4步 的Custom domain`__中提到已经绑定域名了, 还是不能通过访问域名的方式来访问网站, 这是什么原因呢? 原因很简单, 就是域名的DNS与GitHub pages并没有关联, 我要做的就是将域名的DNS映射到GitHub pages上, 那么首先到自己域名注册机构的官网上, 我是在[Godaddy](https://dcc.godaddy.com/manage/)上申请注册的域名
+在__`第4步 的Custom domain`__中提到已经绑定域名了, 还是不能通过访问域名的方式来访问网站, 这是什么原因呢? 原因很简单, 就是域名的DNS与GitHub pages并没有关联, 我要做的就是将域名的DNS映射到GitHub pages上, 那么首先到自己域名注册机构的官网上, 我是在[Godaddy](https://sg.godaddy.com/zh/)上申请注册的域名,进入到[域名管理器](https://dcc.godaddy.com/manage/)页面
 ![Alt text](/images/posts/201812/lALPDgQ9qaByXSrNA2rNBYw_1420_874.png)
 
 选择`管理DNS`后, 进入
@@ -121,12 +121,12 @@ git push
 A | @ | 192.30.252.153
 A | @ | 192.30.252.154
 
-__原本默认的类型A的记录只有一条, 需要手动添加一天A记录, 另外`其他的选项最好不要改动`__
+__原本默认的类型A的记录只有一条, 需要手动添加一条A记录, 另外`其他的选项最好不要改动`__
 
 #### 进行到这一步, 基本上所有的步骤就全部完成了, 现在就可以通过域名访问网站了
 
 ---
 
-> [参考原文cyzus.github.io](http://cyzus.github.io/2015/06/21/github-build-blog/)
+> [参考原文]:(http://cyzus.github.io/2015/06/21/github-build-blog/)
 
 >`主要是GitHub相较于原文的版本, 页面排版不一样了, 我在参考原文的时候折腾了半天, 所以才将自己的操作步骤记录下来, 仅供参考`
