@@ -7,9 +7,6 @@ excerpt: "鉴于我自身建站经历，在翻阅了各种教程后，终于将�
 
 ---
 
-# 利用GitHub Pages建立自己专属博客的详细步骤
-
-
 ### 1. 登录[GitHub](https://github.com/)官网
 
 　如果已经有账号直接[登录](https://github.com/login)即可，没有的话需要[注册](https://github.com/join?source=experiment-header-dropdowns-home)
