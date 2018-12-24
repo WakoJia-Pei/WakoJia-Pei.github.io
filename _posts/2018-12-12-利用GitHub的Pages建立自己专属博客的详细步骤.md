@@ -127,5 +127,5 @@ __原本默认的类型A的记录只有一条, 需要手动添加一条A记录, 
 
 ---
 
-> [参考原文](http://cyzus.github.io/2015/06/21/github-build-blog/):    http://cyzus.github.io/2015/06/21/github-build-blog/
+> [参考原文](http://cyzus.github.io/2015/06/21/github-build-blog/):    http://cyzus.github.io/2015/06/21/github-build-blog/  
 >`主要是GitHub相较于原文的版本, 页面排版不一样了, 我在参考原文的时候折腾了半天, 所以才将自己的操作步骤记录下来, 仅供参考`
