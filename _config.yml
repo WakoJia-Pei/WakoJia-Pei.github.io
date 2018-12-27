@@ -77,7 +77,7 @@ plugins:
 
 # 链接头像
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/favicon2.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "vue, Java"
