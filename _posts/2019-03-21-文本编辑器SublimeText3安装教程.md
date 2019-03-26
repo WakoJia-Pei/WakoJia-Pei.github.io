@@ -8,45 +8,36 @@ excerpt: "CentOS 7系统文本编辑器sublime-text-3安装教程"
 
 ---
 
-1. 官网下载最新的Linux版安装包
-
-      [http://www.sublimetext.com/3](http://www.sublimetext.com/3)
+1. 官网下载最新的Linux版安装包<br />[http://www.sublimetext.com/3](http://www.sublimetext.com/3)
 
 2. 解压文件包并且移动到指定目录下面
-
-```shell
+```
 tar xjf sublime*.tar.bz2 # 解压下载的最新的文件包
-
 sudo mv /home/xtde/Downloads/sublime_text_3 /opt/ # 将解压的文件夹移动到opt目录下面
 ```
- 
+ 
 3. 配置环境变量
-
-```shell
+```
 sudo vim /etc/profile
 ```
 
 4. 添加内容
-
-```shell
+```
 export PATH=/opt/sublime_text_3:$PATH
 ```
 
 5. 保存退出后，需要执行下面命令使配置文件生效
-
-```shell
+```
 source /etc/profile
 ```
 
 6. 创建快捷方式
-
-```shell
+```
 sudo vim /usr/share/applications/sublime_text.desktop
 ```
 
 7. 编辑内容
-
-```shell
+```
 [Desktop Entry]
 Version=1.0
 Type=Application
@@ -70,7 +61,6 @@ OnlyShowIn=Unity;
 Name=New File
 Exec=/opt/sublime_text_3/sublime_text --command new_file
 OnlyShowIn=Unity;
-
 ```
 
 8. 保存退出即可
