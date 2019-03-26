@@ -8,8 +8,6 @@ excerpt: "CentOS 7系统文本编辑器sublime-text-3安装教程"
 
 ---
 
-# 文本编辑器安装：sublime-text-3
-
 1. 官网下载最新的Linux版安装包
 
       [http://www.sublimetext.com/3](http://www.sublimetext.com/3)
