@@ -1,4 +1,14 @@
-﻿@[TOC](这里写自定义目录标题)
+﻿---
+
+title: "使用Markdown编辑器基本语法"
+layout: post
+category: note
+tags: [md]
+excerpt: "使用Markdown编辑器基本语法示例，方便后续使用过程更加顺畅"
+
+---
+
+@[TOC](这里写自定义目录标题)
 
 # 欢迎使用Markdown编辑器
 
