@@ -14,7 +14,6 @@ sudo vim /etc/yum.repos.d/wandisco-git.repo
 ```
 
 添加以下字段，ESC，然后:输入wq保存退出。
-
 ```shell
 [wandisco-git]
 name=Wandisco GIT Repository
