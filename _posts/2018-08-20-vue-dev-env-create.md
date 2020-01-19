@@ -26,6 +26,8 @@ vue -V
 
 一般`node` 安装成功后, 不用单独去安装`npm`,  `node`的安装包中包括`npm`
 
+> __注意：__ 安装 `VUE CLI (1.x 或 2.x) ` 与 `VUE CLI 3.x 及以上` 版本的行命令有所不同，[安装VUE CLI 4.1.2](http://peiwanjiang.com/note/2020/01/18/CentOS7系统-安装VUE_CLI_3.x/ "安装VUECLI 4.1.2")，安装了3.x及以上版本后，可以实现[界面化创建开发环境](https://www.yuque.com/wakojam-pei/mgns3p/iv4xt5 "界面化创建开发环境")
+
 ## 开始搭建环境
 
 照着图逐步做就好了
