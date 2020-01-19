@@ -3,7 +3,7 @@
 title: "CentOS 7 系统：安装VUE CLI 3.x"
 layout: post
 category: note
-tags: [CentOS, vue-cli]
+tags: [centos, vue-cli]
 excerpt: "在CentOS系统上安装vue cli 3.x及以上版本时，会因为各种问题导致vue命令不能正确执行"
 
 ---
