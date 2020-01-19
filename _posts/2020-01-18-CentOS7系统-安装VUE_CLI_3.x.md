@@ -24,18 +24,18 @@ $ npm install -g @vue/cli
 
 -  npm的指定的node_modules全局路径与安装@vue/cli指定的node_modules路径不一致
 
-   
-```bash
-# 查询npm的安装路径
-$ npm root -g
-# 路径不正确时，根据自己的情况重新指定路径
-$ npm config set prefix /usr/local/bin
-```
+  ```bash
+  # 查询npm的安装路径
+  $ npm root -g
+
+  # 路径不正确时，根据自己的情况重新指定路径
+  $ npm config set prefix /usr/local/bin
+  ```
 
 - 权限问题，执行 `sudo npm install -g @vue/cli`
 
 
 
 
-- 如果还有问题[请参考](https://www.cnblogs.com/Amos-Turing/p/9203257.html)
+- 如果还有问题[请参考原贴](https://www.cnblogs.com/Amos-Turing/p/9203257.html)
 
