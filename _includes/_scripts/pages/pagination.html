@@ -87,16 +87,16 @@
       }
       else {
         var content = paginator({
-                          prev_text: '<i class="fa fa-angle-left"></i>',
-                          next_text: '<i class="fa fa-angle-right"></i>',
-                          current: current,
-                          total: total,
-                          base: base,
-                          format: "{{ paginate_path | replace: ':num', '%d' }}",
-                          mid_size: 1,
-                          end_size: 1
-                        });
-          $('nav.pagination').html(content);
+          prev_text: '<i class="fa fa-angle-left"></i>',
+          next_text: '<i class="fa fa-angle-right"></i>',
+          current: current,
+          total: total,
+          base: base,
+          format: "{{ paginate_path | replace: ':num', '%d' }}",
+          mid_size: 1,
+          end_size: 1
+        });
+        $('nav.pagination').html(content);
       }
     })();
   </script>
