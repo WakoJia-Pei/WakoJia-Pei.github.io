@@ -126,7 +126,6 @@ menu:
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
-
 # Enable/Disable menu icons.
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -144,9 +143,6 @@ menu_icons:
   sitemap: sitemap
   commonweal: heartbeat
 
-
-
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
@@ -155,7 +151,6 @@ menu_icons:
 #scheme: Muse
 scheme: Mist
 #scheme: Pisces
-
 
 # ---------------------------------------------------------------
 # Font Settings
@@ -202,9 +197,6 @@ font:
     external: true
     family:
     size:
-
-
-
 
 # ---------------------------------------------------------------
 # Sidebar Settings
@@ -311,8 +303,8 @@ post_meta:
   item_text: true
   created_at: true
   updated_at: 
-    enable: true
-    another_day: true
+    enable: false
+    another_day: false
   categories: true
 
 # Post wordcount display settings
@@ -334,8 +326,6 @@ post_copyright:
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
-
-
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # ---------------------------------------------------------------
@@ -349,15 +339,15 @@ custom_logo:
   enabled: false
   image:
 
-
 # Code Highlight theme
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
 highlight_theme: night eighties
 
+# 无效
 github_banner: 
-  enable: true
+  enable: false
   permalink: https://github.com/yourname
   title: Follow me on GitHub
 
