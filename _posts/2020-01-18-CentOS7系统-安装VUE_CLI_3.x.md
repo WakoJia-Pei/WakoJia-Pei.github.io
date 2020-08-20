@@ -18,7 +18,7 @@ $ npm install -g @vue/cli
 
 1. 如果输出 vue 的版本号，则说明安装成功
 
-  ![lALPDgQ9reo6Pi7M0c0DMA_816_209.png](https://cdn.nlark.com/yuque/0/2020/png/295105/1579309255541-285edb85-effd-4a56-86a4-d5c5330ff5d3.png#align=left&display=inline&height=209&name=lALPDgQ9reo6Pi7M0c0DMA_816_209.png&originHeight=209&originWidth=816&size=27430&status=done&style=none&width=816)
+  ![lALPDgQ9reo6Pi7M0c0DMA_816_209.png](/images/posts/202001/1579309255541-285edb85-effd-4a56-86a4-d5c5330ff5d3.png)
 
 2. 报错 bash: vue: command not found ，原因：
 
