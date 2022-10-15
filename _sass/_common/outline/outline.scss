@@ -29,7 +29,7 @@ html, body { height: 100%; }
 // --------------------------------------------------
 .main { padding-bottom: $footer-height + $gap-between-main-and-footer; }
 .main-inner {
-  margin: 0 auto;
+  margin: -20px 0 auto !important;
   width: $content-desktop;
 
   @include desktop-large() {
